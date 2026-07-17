@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Gastos Pessoais",
+  "description": "Aplicativo completo de gestão de finanças pessoais com categorização inteligente, leitura de notas fiscais (NFC-e) por imagem ou link, relatórios detalhados, planilha e dashboards.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
